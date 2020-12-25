@@ -2,7 +2,7 @@
 Academic c++ SFML game project made with @JanCiechan.   
 
 ## Authors  
-[Łukasz Frątczak](https://github.com/lukasz1303)
+[Łukasz Frątczak](https://github.com/lukasz1303)  
 [Jan Ciechanowicz](https://github.com/JanCiechan)
 
 
