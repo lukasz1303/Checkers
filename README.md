@@ -1,5 +1,5 @@
 # Checkers  
-Academic c++ SFML game project made with @JanCiechan.   
+Academic c++ SFML game project.   
 
 ## Authors  
 [Łukasz Frątczak](https://github.com/lukasz1303)  
