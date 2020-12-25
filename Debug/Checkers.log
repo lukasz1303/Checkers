@@ -1,0 +1,287 @@
+﻿  Board.cpp
+  DrawableArray.cpp
+  Game.cpp
+D:\Checkers\Checkers\src\Game.cpp(135,209): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+D:\Checkers\Checkers\src\Game.cpp(141,134): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+D:\Checkers\Checkers\src\Game.cpp(155,141): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+D:\Checkers\Checkers\src\Game.cpp(347,81): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(348,54): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(376,73): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(376,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(399,75): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(399,57): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(405,106): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(405,88): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(411,99): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(411,81): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(420,106): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(420,88): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(426,99): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(426,81): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(436,106): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(436,88): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(442,99): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(442,81): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(451,106): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(451,88): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(457,99): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(457,81): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(472,127): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Game.cpp(471,159): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Loadgame.cpp
+D:\Checkers\Checkers\src\Loadgame.cpp(60,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+D:\Checkers\Checkers\src\Loadgame.cpp(105,81): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Loadgame.cpp(106,54): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Mainmenu.cpp
+D:\Checkers\Checkers\src\Mainmenu.cpp(139,65): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Mainmenu.cpp(165,65): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Mainmenu.cpp(181,79): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Mainmenu.cpp(181,61): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Mainmenu.cpp(203,81): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Mainmenu.cpp(203,63): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Mainmenu.cpp(223,74): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Checkers\Checkers\src\Mainmenu.cpp(223,56): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Pawn.cpp
+  Scaleable.cpp
+  Generowanie kodu...
+  Checkers.vcxproj -> D:\Checkers\Checkers\Debug\Checkers.exe
